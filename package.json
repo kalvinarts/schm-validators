@@ -1,0 +1,10 @@
+{
+  "name": "schm-validators",
+  "version": "0.0.1",
+  "description": "Collection of schm validators",
+  "main": "index.js",
+  "repository": "git@github.com:kalvinarts/schm-validators.git",
+  "author": "kalvin <kalvin@unseen.is>",
+  "license": "MIT",
+  "private": false
+}
