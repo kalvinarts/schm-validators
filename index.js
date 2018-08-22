@@ -1,3 +1,5 @@
 module.exports = {
-  email: require('./email'),
-}
+  alphanumeric: require('./lib/alphanumeric'),
+  alphanumericExtra: require('./lib/alphanumericExtra'),
+  email: require('./lib/email'),
+};
